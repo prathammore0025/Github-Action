@@ -23,6 +23,8 @@ Node.js is set up with version 18 to provide the environment required for buildi
 # Install Dependencies:
 The workflow runs npm install to install all necessary dependencies as specified in the package.json file.
 
+
+
 # Build Project:
 The project is built using the command npm run build. This step compiles the project into deployable artifacts.
 
